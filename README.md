@@ -1,5 +1,3 @@
-https://baricai.github.io/Project.reactnd-project-myreads-starter/
-
 
 # MyReads Project
 
