@@ -14,4 +14,8 @@ This initial code comes with a pre-set template that Udacity provides with stati
 -Pick any book that you would like to read, you are currently reading, or you have already read, use the drop-downs to send it to the right shelf.
 -You can also do a Search to pick any other book you want to read.
 
-# 
+# Material, resources and tools used
+-Udacity mentor
+-Slack community
+-JS readings
+-Building with React chapter.
