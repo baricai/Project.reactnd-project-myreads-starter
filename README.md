@@ -5,7 +5,7 @@ This initial code comes with a pre-set template that Udacity provides with stati
 
 # How to load the MyReads App
 -git clone the project into your machine.
--Inside your terminal go inside your folder and type npm install.
+--Inside your terminal go inside your folder and type npm install.
 -Type npm start
 -The project will open in a server usually localhost:3000
 -Navigate thru the project and enjoy the features of the app.
